@@ -132,4 +132,5 @@
   * 其他...a lot
 > 1.本更新内容使用 Visual Studio Code，基于 Markdown 语言由 [三千颜夜(畫未)](https://steamcommunity.com/profiles/76561198149176045) 编写
 > 2.PDF，PNG 文件使用 Typora 导出，文中带有超链接，为了方便阅读，建议打开 README.md 或 README.pdf 来阅读
-> —— 2020.09.28 —— ver. 1.0
+> 
+—— 2020.09.28 —— ver. 1.0
