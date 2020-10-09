@@ -1,6 +1,6 @@
 # **更新没人看，没人玩系列**
 ![no_name_25.jpg](https://i.loli.net/2020/10/09/vI2XcxApdLlCSZq.jpg)
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Linux%2FmacOS-error-lightgrey"/>  <img src="https://img.shields.io/badge/Windows-passing-brightgreen"/>  <img src="https://img.shields.io/badge/Version-%20v1.0-blue"/>
 <p align="center">
 <img src="https://img.shields.io/badge/ %E4%B8%89%E6%96%B9%E5%9B%BE-%E7%9C%9F%E5%A5%BD%E7%8E%A9-green?logo=appveyor&style=for-the-badge"/>  <img src="https://img.shields.io/badge/%E5%B0%B8%E6%BD%AE-%E9%80%92%E8%8D%AF-orange?logo=appveyor&style=for-the-badge"/>  <img src="https://img.shields.io/badge/%E7%8E%A9%E6%B1%82%E7%94%9F-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84-blueviolet?logo=appveyor&style=for-the-badge"/>
